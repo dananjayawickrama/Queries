@@ -30,3 +30,7 @@ where name like '_a%';
 select id,name
 from LIKE_operator_Table_1
 where name not like 'D%';
+
+
+
+
