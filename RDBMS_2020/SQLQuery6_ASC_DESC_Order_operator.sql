@@ -2,8 +2,7 @@
 
 --01.ascending order
 
-
---Table->Id(pk),name,gpa,batch
+--Table -> Id(pk),name,gpa,batch
 
 SELECT id,name,gpa
 FROM LIKE_operator_Table_1
