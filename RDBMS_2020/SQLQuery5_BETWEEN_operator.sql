@@ -1,5 +1,7 @@
 --//Between SQL
 
+--//Table->Number(pk),item,date(varchar)
+
 --// Print 1 and 3 items also
 SELECT *
 FROM Table_1
