@@ -1,0 +1,23 @@
+01.Basic - create table
+	 - pk,fk
+	 - insert values
+	 - add colume,remove colume,drop colume,drop table
+	 - delete, update
+
+02.LIKE operator
+
+03.IS [NOT] NULL operator
+
+04.DISTINCT operators
+
+05.BETWEEN operator
+
+06.ORDER BY clause
+
+07.Joins (inner & outer)
+
+08.Nested query (IN/SOME/ANY, ALL), [NOT] EXISTS
+
+09.Aggregate functions
+
+10.GROUP BY – HAVING clauses
